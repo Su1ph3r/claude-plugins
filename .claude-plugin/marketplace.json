@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "su1ph3r-plugins",
+  "description": "Custom Claude Code plugins by su1ph3r — security tools, code quality, and development automation",
+  "owner": {
+    "name": "su1ph3r"
+  },
+  "plugins": [
+    {
+      "name": "bug-hunter",
+      "description": "Multi-agent bug hunting with 8 parallel specialist agents, deduplication, regression guard, and prioritized reporting",
+      "version": "1.0.0",
+      "author": {
+        "name": "su1ph3r"
+      },
+      "source": "./plugins/bug-hunter",
+      "category": "productivity"
+    }
+  ]
+}
