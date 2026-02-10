@@ -1,0 +1,8 @@
+{
+  "name": "bounty-pipeline",
+  "version": "1.0.0",
+  "description": "End-to-end bug bounty hunting pipeline that orchestrates 8 security tools (Reticustos, Indago, BypassBurrito, Mobilicustos, Nubicustos, Cepheus, Vinculum, Ariadne) through agent-driven phases — from recon to attack path synthesis",
+  "author": {
+    "name": "su1ph3r"
+  }
+}

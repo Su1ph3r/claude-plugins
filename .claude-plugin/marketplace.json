@@ -15,6 +15,16 @@
       },
       "source": "./plugins/bug-hunter",
       "category": "productivity"
+    },
+    {
+      "name": "bounty-pipeline",
+      "description": "End-to-end bug bounty hunting pipeline that orchestrates 8 security tools through agent-driven phases from recon to attack path synthesis",
+      "version": "1.0.0",
+      "author": {
+        "name": "su1ph3r"
+      },
+      "source": "./plugins/bounty-pipeline",
+      "category": "productivity"
     }
   ]
 }
